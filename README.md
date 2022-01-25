@@ -6,7 +6,7 @@
 
 日常喜欢写写开源插件，做一些小东西
 
-## 职业旅程
+毕业后就进行了创业，从事软件外包服务，经历很多项目的从 0 到 1 的实施并落地，热衷于项目的合作开发
 
 ## 常用的语言
 
@@ -14,7 +14,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&color=%23FFCE5A)
 
-## 常用的框架与技术
+## 常用的框架技术与工具
 
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=for-the-badge&logo=Vue.js)
 <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=333333" />
@@ -26,6 +26,7 @@
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=for-the-badge&logo=eslint)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
 ![WebStorm](https://img.shields.io/badge/-WebStorm-%23007ACC?style=for-the-badge&logo=WebStorm)
+<img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white" />
 
 ## 常用的产品设计工具
 
