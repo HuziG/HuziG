@@ -12,13 +12,13 @@
 
 ![HuziG's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuziG&show_icons=true&theme=tokyonight)
 
-## 常用的语言
+## 常用的语言 Commonly used languages
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&color=%23FFCE5A)
 
-## 常用的框架技术与工具
+## 常用的框架技术与工具 Commonly used fontend frame & tools
 
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=for-the-badge&logo=Vue.js)
 <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=333333" />
@@ -32,11 +32,11 @@
 ![WebStorm](https://img.shields.io/badge/-WebStorm-%23007ACC?style=for-the-badge&logo=WebStorm)
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white" />
 
-## 常用的产品设计工具
+## 常用的产品设计工具 Commonly used product design tools
 
 <img alt="Adobe XD" src="https://img.shields.io/badge/-Adobe XD-FF61F6?style=for-the-badge&logo=Adobe XD&logoColor=white" /> <img alt="Sketch" src="https://img.shields.io/badge/-Sketch-F7B500?style=for-the-badge&logo=Sketch&logoColor=333333" />
 
-## 我的项目
+## 我的项目 My Project
 
 <table>
   <thead align="center">
