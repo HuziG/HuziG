@@ -36,6 +36,24 @@
 
 <img alt="Adobe XD" src="https://img.shields.io/badge/-Adobe XD-FF61F6?style=for-the-badge&logo=Adobe XD&logoColor=white" /> <img alt="Sketch" src="https://img.shields.io/badge/-Sketch-F7B500?style=for-the-badge&logo=Sketch&logoColor=333333" />
 
+## 项目
+
+<table>
+  <thead align="center">
+      <tr border: none;>
+      <td><b>🎉 项目</b></td>
+      <td><b>💁 介绍</b></td>
+      <td><b>💻 体验</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/HuziG/focusingjs"><b>focusingjs</b></a></td>
+      <td>面向开发者的沉浸式阅读插件</td>
+      <td><a href="https://codepen.io/huzig/pen/qBVWezR?editors=1112">CodePen</a></td>
+    </tr>
+  </tbody>
+</table>
 
 ## 📫 联系我 How to reach me
 
