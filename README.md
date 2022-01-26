@@ -41,8 +41,9 @@
 <table>
   <thead align="center">
       <tr border: none;>
-      <td><b>🎉 项目</b></td>
+      <td><b>🎉 名称</b></td>
       <td><b>💁 介绍</b></td>
+      <td><b>🖥 官网</b></td>
       <td><b>💻 体验</b></td>
     </tr>
   </thead>
@@ -50,6 +51,7 @@
     <tr>
       <td><a href="https://github.com/HuziG/focusingjs"><b>focusingjs</b></a></td>
       <td>面向开发者的沉浸式阅读插件</td>
+      <td></td>
       <td><a href="https://codepen.io/huzig/pen/qBVWezR?editors=1112">CodePen</a></td>
     </tr>
   </tbody>
