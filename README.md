@@ -1,12 +1,6 @@
 ## 嘿 Hi there 👋 👋 👋
 
-我叫张小明，来自江苏，目前生活在上海
-
-是一名前端开发者，同时也会做一些产品设计上的工作
-
-日常喜欢写写开源插件，做一些小东西
-
-毕业后就进行了创业，从事软件外包服务，经历很多项目的从 0 到 1 的实施并落地，热衷于项目的合作开发
+前端开发，就是热衷于码代码
 
 ![HuziG's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=HuziG&show_icons=true&layout=compact&count_private=true&theme=tokyonight)
 
