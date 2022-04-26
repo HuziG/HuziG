@@ -45,7 +45,7 @@
     <tr>
       <td><a href="https://github.com/HuziG/focusingjs"><b>focusingjs</b></a></td>
       <td>面向开发者的沉浸式阅读插件</td>
-      <td></td>
+      <td>无</td>
       <td><a href="https://codepen.io/huzig/pen/qBVWezR?editors=1112">CodePen</a></td>
     </tr>
   </tbody>
