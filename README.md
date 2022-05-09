@@ -52,7 +52,7 @@
     <tr>
       <td><b>聚合信息板</b></td>
       <td>内容个性定制版</td>
-      <td><a href="www.jinmai.store">体验网址</a></td>
+      <td><a href="https://www.jinmai.store/">体验网址</a></td>
       <td>无</td>
     </tr>
   </tbody>
