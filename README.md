@@ -1,6 +1,6 @@
 ## 嘿 Hi there 👋 👋 👋
 
-前端开发，就是热衷于码代码
+前端开发，经常做一些有意思的小产品
 
 ![HuziG's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=HuziG&show_icons=true&layout=compact&count_private=true&theme=tokyonight)
 
